@@ -10,4 +10,4 @@ Responsive design for mobile and desktop
 Best travellers details
 Feel free to explore the code and contribute to the project.
 
-![image alt]([image ult](https://github.com/Saubhik2003/Flight-Booking-App/blob/292fa50a8103cc9e6cd194cc21dd7b9bf0febc8d/Project/1.png))
+![image ult](https://github.com/Saubhik2003/Flight-Booking-App/blob/292fa50a8103cc9e6cd194cc21dd7b9bf0febc8d/Project/1.png)
